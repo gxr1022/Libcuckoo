@@ -1,0 +1,2 @@
+/users/Xuran/LIBCUCKOO/build/libcuckoo --num_threads=1 --str_key_size=8 --str_value_size=100 --num_of_ops=1000000 --first_mode=true
+stdbuf: failed to run command ‘/users/Xuran/LIBCUCKOO/build/libcuckoo’: No such file or directory

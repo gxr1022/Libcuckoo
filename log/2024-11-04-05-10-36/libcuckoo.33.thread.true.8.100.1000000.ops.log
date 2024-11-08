@@ -1,0 +1,4 @@
+/users/Xuran/LIBCUCKOO/build/libcuckoo --num_threads=33 --str_key_size=8 --str_value_size=100 --num_of_ops=1000000 --first_mode=true
+[report] load_overall_duration_ns : 31928562
+[report] load_overall_operation_number : 1000000
+[report] load_overall_throughput : 31319919.763377
